@@ -1,0 +1,10 @@
+E:\PROJEKTI\csharp_2017\Vsite Ping Application\VsitePingApplication\VsitePingApplication\bin\Debug\VsitePingApplication.exe.config
+E:\PROJEKTI\csharp_2017\Vsite Ping Application\VsitePingApplication\VsitePingApplication\bin\Debug\VsitePingApplication.exe
+E:\PROJEKTI\csharp_2017\Vsite Ping Application\VsitePingApplication\VsitePingApplication\bin\Debug\VsitePingApplication.pdb
+E:\PROJEKTI\csharp_2017\Vsite Ping Application\VsitePingApplication\VsitePingApplication\obj\Debug\VsitePingApplication.csprojResolveAssemblyReference.cache
+E:\PROJEKTI\csharp_2017\Vsite Ping Application\VsitePingApplication\VsitePingApplication\obj\Debug\VsitePingApplication.Form1.resources
+E:\PROJEKTI\csharp_2017\Vsite Ping Application\VsitePingApplication\VsitePingApplication\obj\Debug\VsitePingApplication.Properties.Resources.resources
+E:\PROJEKTI\csharp_2017\Vsite Ping Application\VsitePingApplication\VsitePingApplication\obj\Debug\VsitePingApplication.csproj.GenerateResource.Cache
+E:\PROJEKTI\csharp_2017\Vsite Ping Application\VsitePingApplication\VsitePingApplication\obj\Debug\VsitePingApplication.csproj.CoreCompileInputs.cache
+E:\PROJEKTI\csharp_2017\Vsite Ping Application\VsitePingApplication\VsitePingApplication\obj\Debug\VsitePingApplication.exe
+E:\PROJEKTI\csharp_2017\Vsite Ping Application\VsitePingApplication\VsitePingApplication\obj\Debug\VsitePingApplication.pdb
